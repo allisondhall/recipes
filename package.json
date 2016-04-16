@@ -1,0 +1,11 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "Create, save, and view your recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "alhll",
+  "license": "ISC"
+}
