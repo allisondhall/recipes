@@ -1,12 +1,13 @@
 var React = require("react");
 var RecipeInfo = require("./recipeInfo.jsx")
+var AddRecipe = require("./addRecipe.jsx")
 
 module.exports = React.createClass({
    render:function(){
        return(
            <div className="row">
                 <div className="col-md-6">
-                    //We will add addRecipe functionality here
+                    <AddRecipe/>
                 </div>
                 <div className="col-md-6">
                     {
